@@ -31,7 +31,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="cow_logo" translatesAutoresizingMaskIntoConstraints="NO" id="YY6-u7-k8Y">
-                                <rect key="frame" x="87" y="309" width="240" height="128"/>
+                                <rect key="frame" x="-105" y="185" width="625" height="526"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
@@ -41,7 +41,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="122" y="108"/>
+            <point key="canvasLocation" x="121.73913043478262" y="107.8125"/>
         </scene>
     </scenes>
     <resources>
